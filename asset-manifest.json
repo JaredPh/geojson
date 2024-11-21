@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/geojson/static/css/main.33edeec6.css",
+    "main.js": "/geojson/static/js/main.54675437.js",
+    "index.html": "/geojson/index.html",
+    "main.33edeec6.css.map": "/geojson/static/css/main.33edeec6.css.map",
+    "main.54675437.js.map": "/geojson/static/js/main.54675437.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33edeec6.css",
+    "static/js/main.54675437.js"
+  ]
+}
